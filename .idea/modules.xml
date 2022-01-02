@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/biorecorder-monorepo-sasha.iml" filepath="$PROJECT_DIR$/.idea/biorecorder-monorepo-sasha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ads/ads.iml" filepath="$PROJECT_DIR$/ads/ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ads-bdf-recorder/ads-bdf-recorder.iml" filepath="$PROJECT_DIR$/ads-bdf-recorder/ads-bdf-recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bichart/bichart.iml" filepath="$PROJECT_DIR$/bichart/bichart.iml" />
+       <module fileurl="file://$PROJECT_DIR$/biosignal/biosignal.iml" filepath="$PROJECT_DIR$/biosignal/biosignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator.iml" filepath="$PROJECT_DIR$/code-generator/code-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comport/comport.iml" filepath="$PROJECT_DIR$/comport/comport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datalyb/datalyb.iml" filepath="$PROJECT_DIR$/datalyb/datalyb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edf-viewer/edf-viewer.iml" filepath="$PROJECT_DIR$/edf-viewer/edf-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edflib/edflib.iml" filepath="$PROJECT_DIR$/edflib/edflib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filters/filters.iml" filepath="$PROJECT_DIR$/filters/filters.iml" />
+
+    </modules>
+  </component>
+</project>
